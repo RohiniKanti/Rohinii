@@ -1,6 +1,6 @@
 package demo;
 
-public class script {
+public class script3 {
 	static void sub(int no)
 	{
 	int fact=1;
